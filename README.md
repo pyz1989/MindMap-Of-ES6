@@ -4,6 +4,8 @@ MindMap-Of-ES6
 
 ### 00.前言
 ### 01.ECMAScript 6简介
+
+
 ### 02.let 和 const 命令
 ### 03.变量的解构赋值
 ### 04.字符串的扩展
@@ -13,6 +15,8 @@ MindMap-Of-ES6
 ### 08.数组的扩展
 ### 09.对象的扩展
 ### 10.Symbol
+
+
 ### 11.Set 和 Map 数据结构
 ### 12.Proxy
 ### 13.Reflect
@@ -26,6 +30,8 @@ MindMap-Of-ES6
 ### 21.Decorator
 ### 22.Module 的语法
 ### 23.Module 的加载实现
+
+
 ### 24.编程风格
 ### 25.读懂规格
 ### 26.ArrayBuffer
