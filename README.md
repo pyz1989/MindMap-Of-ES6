@@ -2,7 +2,7 @@ MindMap-Of-ES6
 -----------
 基于阮一峰老师的[《ECMAScript 6入门》](http://es6.ruanyifeng.com/)绘制的ES6思维导图，请使用XMind打开...
 
-### 00.前言
+### 00.前言[Done]
 > 如果您认可这本书，建议购买纸版。这样可以使出版社不因出版开源书籍而亏钱，进而鼓励更多的作者开源自己的书籍。
 
 - [淘宝](https://s.taobao.com/search?q=ES6+%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8+%E7%AC%AC2%E7%89%88)
