@@ -27,7 +27,7 @@ MindMap-Of-ES6
 ### 12.Proxy
 ### 13.Reflect
 ### 14.Promise 对象[Should Done!]
-### 15.Iterator 和 for...of 循环
+### 15.Iterator 和 for...of 循环[Should Done!]
 ### 16.Generator 函数的语法
 ### 17.Generator 函数的异步应用
 ## 18.async 函数
