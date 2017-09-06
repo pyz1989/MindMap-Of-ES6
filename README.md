@@ -25,7 +25,7 @@ MindMap-Of-ES6
 
 ### 11.Set 和 Map 数据结构
 ### 12.Proxy
-### 13.Reflect
+### 13.Reflect[Should Done!]
 ### 14.Promise 对象[Should Done!]
 ### 15.Iterator 和 for...of 循环[Should Done!]
 ### 16.Generator 函数的语法
