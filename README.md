@@ -31,7 +31,7 @@ MindMap-Of-ES6
 ### 16.Generator 函数的语法
 ### 17.Generator 函数的异步应用
 ## 18.async 函数
-### 19.Class 的基本语法
+### 19.Class 的基本语法[Should Done!]
 ### 20.Class 的继承
 ### 21.Decorator
 ### 22.Module 的语法
