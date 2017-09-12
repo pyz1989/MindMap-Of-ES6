@@ -11,6 +11,8 @@ MindMap-Of-ES6
 - [亚马逊](http://www.amazon.cn/ES6-%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8-%E9%98%AE%E4%B8%80%E5%B3%B0/dp/B01A18WWAG/)
 - [China-pub](http://product.china-pub.com/4904712)
 
+**版权许可**：《ECMAScript 6入门》采用“保持署名—非商用”创意共享4.0许可证。
+
 ### 01.ECMAScript 6简介
 
 ### 02.let 和 const 命令
