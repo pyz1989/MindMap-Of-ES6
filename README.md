@@ -3,7 +3,7 @@ MindMap-Of-ES6
 基于阮一峰老师的[《ECMAScript 6入门》](http://es6.ruanyifeng.com/)绘制的ES6思维导图，请使用 [XMind](http://www.xmind.net/download/) 打开...
 
 
-![ECMAScript 6入门](http://es6.ruanyifeng.com/images/cover-3rd.jpg)
+![ECMAScript 6入门](https://github.com/pyz1989/MindMap-Of-ES6/blob/master/Img/cover-3rd.jpg)
 
 
 ### 00.前言[Done]
