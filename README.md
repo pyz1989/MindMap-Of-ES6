@@ -18,8 +18,7 @@ MindMap-Of-ES6
 
 **版权许可**：《ECMAScript 6入门》采用“保持署名—非商用”创意共享4.0许可证。
 
-### 01.ECMAScript 6简介
-
+### 01.ECMAScript 6简介[Done]
 ### 02.let 和 const 命令
 ### 03.变量的解构赋值
 ### 04.字符串的扩展
